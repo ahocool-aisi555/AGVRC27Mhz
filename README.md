@@ -1,5 +1,5 @@
 # AGVRC27Mhz
-Merubah mobil mobilan remot kontrol 27 Mhz menjadi berbasis Wifi dan Menjadi Automatic Guided Vehicle (AGV)
+Merubah mobil mobilan remot kontrol 27 Mhz menjadi berbasis Wifi dan Bergerak Sebagai Automatic Guided Vehicle (AGV)
 
 <img src="https://github.com/user-attachments/assets/ad9b4c00-1598-48a0-a212-1ec67a7a0dce" width="500" height="400"/>
 
