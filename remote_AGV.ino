@@ -6,9 +6,13 @@
   untuk Anak Anak ku Mahasiswa  D4 Teknik Rekayasa Otomotif Unesa 2025 kelas I
   SEMANGAT BELAJAR TERUS !!
 */ 
-
+//ini khusus ESP32
 #include <WiFi.h>
 #include <WiFiUdp.h>
+
+//Jika pake esp8266 gunakan library ini
+//#include <ESP8266WiFi.h>
+//#include <ESP8266WebServer.h>
 
 // Konfigurasi WiFi disesuaikan router atau hotspot
 const char* ssid = "Gak_Perlu_Ngebut";
@@ -23,7 +27,7 @@ IPAddress subnet(255, 255, 255, 0);
 unsigned int udpPort = 4210;
 WiFiUDP udp;
 
-// Pin kendali
+// Pin kendali, sesuaikan kalau pin kamu berbeda
 #define MAJU_PIN    15
 #define MUNDUR_PIN   2
 #define KANAN_PIN    4
@@ -199,6 +203,7 @@ void loop() {
   }
   
 }
+
 
 
 
