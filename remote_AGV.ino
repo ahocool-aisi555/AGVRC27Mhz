@@ -1,11 +1,19 @@
+/*Ini menggunakan ESP32 sebagai kontrol remote RC 27MHZ
+  Ini untuk remote berbasis wifi yang kemudian di hubungkan ke router
+  Perintah dikirimkan ke UDP, cocok untuk demo objek deteksi warna/lingkaran
+  by : Nyoman Yudi Kurniawan
+  untuk Anak Anak ku Mahasiswa  D4 Teknik Rekayasa Otomotif Unesa 2025 kelas I
+  SEMANGAT BELAJAR TERUS !!
+*/ 
+
 #include <WiFi.h>
 #include <WiFiUdp.h>
 
-// Konfigurasi WiFi
+// Konfigurasi WiFi disesuaikan router atau hotspot
 const char* ssid = "Gak_Perlu_Ngebut";
 const char* password = "klengcinot";
 
-// IP statis
+// IP statis, sesuaikan dengan IP network kamu
 IPAddress ip(192, 168, 1, 177);
 IPAddress gateway(192, 168, 1, 1);     // biasanya IP router
 IPAddress subnet(255, 255, 255, 0);
@@ -190,3 +198,4 @@ void loop() {
   }
   
 }
+
