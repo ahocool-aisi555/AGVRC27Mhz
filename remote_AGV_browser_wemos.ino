@@ -1,3 +1,12 @@
+/*Ini menggunakan ESP8266/wemos sebagai kontrol remote RC 27MHZ
+  Nama wifi disesuaikan, lalu akses ke IP 192.168.4.1 lewat browser
+  by : Nyoman Yudi Kurniawan
+  untuk ANak D4 Trknik Rekayasa Otomotif Unesa 2025 kelas I
+  SEMANGAT BELAJAR TERUS !!
+*/ 
+  
+  
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 
@@ -285,3 +294,4 @@ void handleBerhenti() {
   berhenti = true;
   server.send(200, "text/plain", "Berhenti");
 }
+
