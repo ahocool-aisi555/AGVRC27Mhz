@@ -1,3 +1,12 @@
+# Ini adalah coding python sebagai penggerak mobil remote RC 27MHZ
+# Dan digabung dengan kamera cctv yg saya gunakan merek ezviz  
+# Router dan IP harus satu network dengan remot dan kamera cctv
+# Demonya ada di readme
+# by : Nyoman Yudi Kurniawan
+# untuk Anak Anak ku Mahasiswa  D4 Teknik Rekayasa Otomotif Unesa 2025 kelas I
+# SEMANGAT BELAJAR TERUS !!
+ 
+
 import cv2
 import socket
 import time
@@ -130,4 +139,5 @@ while True:
 # --- Cleanup ---
 cap.release()
 cv2.destroyAllWindows()
+
 sock.close()
