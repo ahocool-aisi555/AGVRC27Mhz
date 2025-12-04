@@ -1,5 +1,5 @@
 /*Ini menggunakan ESP32 sebagai kontrol remote RC 27MHZ
-  Ini untuk remote berbasis wifi yang kemudian di hubungkan ke router
+  Tujuannya mengubah remote jadi  berbasis wifi yang kemudian di hubungkan ke router
   Perintah dikirimkan ke UDP, cocok untuk demo objek deteksi warna/lingkaran
   Tersedia juga APK androinya , dan python untuk berbagai deteksi object
   by : Nyoman Yudi Kurniawan
@@ -199,5 +199,6 @@ void loop() {
   }
   
 }
+
 
 
