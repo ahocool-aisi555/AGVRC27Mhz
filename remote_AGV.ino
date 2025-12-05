@@ -19,6 +19,8 @@ const char* ssid = "Gak_Perlu_Ngebut";
 const char* password = "klengcinot";
 
 // IP statis, sesuaikan dengan IP network kamu
+// blok 3 baris code dibawah jika ingin menggunakan ip dhcp atau routernya ip berbeda 
+// dan sesuaikan ip di apk remoteku aatu script python
 IPAddress ip(192, 168, 1, 177);
 IPAddress gateway(192, 168, 1, 1);     // biasanya IP router
 IPAddress subnet(255, 255, 255, 0);
@@ -203,6 +205,7 @@ void loop() {
   }
   
 }
+
 
 
 
