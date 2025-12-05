@@ -9,10 +9,15 @@ Merubah mobil mobilan remot kontrol 27 Mhz menjadi berbasis Wifi dan Bergerak Se
 ![AGV_AREK_TRO_bb](https://github.com/user-attachments/assets/55ea59e8-1398-4df1-99db-a520981f1224)
 
 *) catatan : jangan rusak remote yg dapat dari pabrik, belikan saja PCB remote 27mhz murah cuman 30rb saja 
+*) Transistor bisa pake jenis PNP yg umum S9012/BC557 , dimana Colector terhubung pada switch GND dan Emiter sisi bersebrangan pada push button
 
-# Remote Dalam box
+# Remote AGV Dalam box
 
 <img src="https://github.com/user-attachments/assets/6b13b02f-7175-46b3-adf2-2a83fe83af74" width="500" height="400"/>
+
+# Versi dengan CCTV ezviz
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL62Ky7XFSk1WJH1ljJ3JyT_yhIlwqLLXt9rKMGPcnmCEyuWEcILmj1p9zeJlOsrJsp_GLPnLBzs_r_3cqpL575PFhhs8BVWd0o2PgxNw63IbRqbJgRzgrSTvJCHNo2veaBVMvJ3N-5dxRJpzCL2CuSQR3xFqO1CPyRxGlc9gFKfntD7iuhPwH75SVbyTi/w400-h225/IMG-20250521-WA0011.jpeg">
 
 # Demo di Pameran Innovasi Unesa 2025
 
