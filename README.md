@@ -15,6 +15,12 @@ Merubah mobil mobilan remot kontrol 27 Mhz menjadi berbasis Wifi dan Bergerak Se
 
 <img src="https://github.com/user-attachments/assets/6b13b02f-7175-46b3-adf2-2a83fe83af74" width="500" height="400"/>
 
+# Link Folder Pengumpulan Tugas
+
+[Klik Disini Untuk Masuk Ke Gdrive](https://drive.google.com/drive/folders/1b37DTdMMFeIZNC09ZBe115fqYSAhNyn7?usp=drive_link)
+
+
+
 # Versi dengan CCTV ezviz
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL62Ky7XFSk1WJH1ljJ3JyT_yhIlwqLLXt9rKMGPcnmCEyuWEcILmj1p9zeJlOsrJsp_GLPnLBzs_r_3cqpL575PFhhs8BVWd0o2PgxNw63IbRqbJgRzgrSTvJCHNo2veaBVMvJ3N-5dxRJpzCL2CuSQR3xFqO1CPyRxGlc9gFKfntD7iuhPwH75SVbyTi/w400-h225/IMG-20250521-WA0011.jpeg">
